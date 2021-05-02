@@ -2,7 +2,7 @@
 ## Description
 The Work Day Scheduler website allows a user to plan their day.  They can add notes for the various one-hour blocks of the work day so they can keep on schedule.  The notes are persistent across browser sessions.
     
-The website can be accessed at http://bdstpierre.github.io/work-day-scheduler
+The website can be accessed at https://bdstpierre.github.io/work-day-scheduler/
 
 [Website image](assets/images/screenshot.png
 
